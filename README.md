@@ -15,3 +15,14 @@ Exon Shield is an Anti Virus Plugin designed for Roblox Studio that aims to prot
 - [ ] Scanning Starter Pack
 - [ ] Scanning Starter Character Scripts
 - [ ] Scanning Starter Player Scripts
+
+## Versions
+- v0.1A (PRE-ALPHA) is now available to a handful of testers.
+
+
+### Developers
+- protekti:
+  - Scripting
+  - UI
+- MasixRB:
+  - Advertising
